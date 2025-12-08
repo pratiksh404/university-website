@@ -10,4 +10,7 @@ export default defineConfig({
         }),
         tailwindcss(),
     ],
+    input: [
+        'resources/css/filament/admin/theme.css',
+    ]
 });
