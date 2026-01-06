@@ -3,5 +3,8 @@
 @source '../../../../app/Filament/**/*';
 @source '../../../../resources/views/filament/**/*';
 
-/* Vustom Auth UI Enhancer */
+/* Custom Auth UI Enhancer */
 @source '../../../../vendor/diogogpinto/filament-auth-ui-enhancer/resources/**/*.blade.php';
+
+/* Spotlight */
+@source '../../../../vendor/wire-elements/**/*.blade.php';

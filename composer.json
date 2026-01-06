@@ -7,11 +7,15 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "aliziodev/laravel-taxonomy": "^2.8",
+        "bezhansalleh/filament-shield": "^4.0",
         "diogogpinto/filament-auth-ui-enhancer": "^2.0",
         "filament/filament": "^4.0",
         "laravel/framework": "^12.0",
         "laravel/tinker": "^2.10.1",
+        "openplain/filament-shadcn-theme": "^1.0",
         "pxlrbt/filament-activity-log": "^2.0",
+        "pxlrbt/filament-spotlight": "*",
         "spatie/laravel-activitylog": "^4.10"
     },
     "require-dev": {
